@@ -1,18 +1,19 @@
 Вывод сообщения в консоль
-
-`public class Main
+```
+public class Main
 {
 	public static void main(String[] args) {
 		System.out.println("Привет Java");   
 	}
-}`
-
+}
+```
 
 =========================================================================
 
 Вывод значения переменых и их присваивание в консоль
 
-`public class Main
+```
+public class Main
 {
 	public static void main(String[] args)
 	{
@@ -26,7 +27,8 @@
 	    System.out.println(d);
 	    System.out.println(f);
 	}
-}`
+}
+```
 
 
 =========================================================================
