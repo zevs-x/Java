@@ -21,6 +21,7 @@ public class Main
 	        double pi = 3.14159;  
        		byte d = 22;          
         	char f = 'f';
+
 	    System.out.println(a);
 	    System.out.println(s);
 	    System.out.println(pi);
